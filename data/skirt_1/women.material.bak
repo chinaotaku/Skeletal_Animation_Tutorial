@@ -1,0 +1,21 @@
+material cloth
+{
+	technique
+	{
+		pass
+		{
+			shading phong
+			ambient 0.0 0.0 0.0 1
+			diffuse 2 2 2 1
+			specular 1.0 1.0 1.0 11.776
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture 20140222022048589784.jpg
+			}
+		}
+
+	}
+
+}

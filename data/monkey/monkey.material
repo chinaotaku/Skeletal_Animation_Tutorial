@@ -1,0 +1,21 @@
+material Material#3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.0 0.0 0.0 1
+			diffuse 1 1 1 1
+			specular 0.0 0.0 0.0 1
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture 05027B1M.tga
+				texture_bump 05027B1M_NRM2.jpg
+			}
+		}
+
+	}
+
+}

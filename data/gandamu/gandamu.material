@@ -1,0 +1,146 @@
+material Material__100
+{
+	technique
+	{
+		pass
+		{
+			specular 0 0 0 1 50
+		}
+
+	}
+
+}
+
+
+
+material Material__75
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.933333 0.933333 0.933333 1
+			diffuse 0.933333 0.933333 0.933333 1
+			specular 0.117647 0.117647 0.117647 1 50
+		}
+
+	}
+
+}
+
+
+
+material Material__76
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.921569 0 0 1
+			diffuse 0.921569 0 0 1
+			specular 0.117647 0.117647 0.117647 1 50
+		}
+
+	}
+
+}
+
+
+
+material Material__77
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.356863 0.360784 0.388235 1
+			diffuse 0.356863 0.360784 0.388235 1
+			specular 0.117647 0.117647 0.117647 1 50
+		}
+
+	}
+
+}
+
+
+
+material Material__78
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.968628 0.713726 0.117647 1
+			diffuse 0.968628 0.713726 0.117647 1
+			specular 0.117647 0.117647 0.117647 1 50
+		}
+
+	}
+
+}
+
+
+
+material Material__79
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 0.360784 0.0588235 1
+			diffuse 1 0.360784 0.0588235 1
+			specular 0.117647 0.117647 0.117647 1 50
+		}
+
+	}
+
+}
+
+
+
+material Material__80
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0 0 0 1
+			specular 0 0 0 1 50
+		}
+
+	}
+
+}
+
+
+
+material Material__81
+{
+	technique
+	{
+		pass
+		{
+			specular 0.117647 0.117647 0.117647 1 50
+		}
+
+	}
+
+}
+
+
+
+material Material__82
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.054902 0.372549 0.52549 1
+			diffuse 0.054902 0.372549 0.52549 1
+			specular 0.117647 0.117647 0.117647 1 50
+		}
+
+	}
+
+}

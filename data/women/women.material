@@ -1,0 +1,21 @@
+material cloth
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.0 0.0 0.0 1
+			diffuse 1 1 1 1
+			specular 0.0 0.0 0.0 11.776
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture 20140222.jpg
+				
+			}
+		}	
+
+	}
+
+}

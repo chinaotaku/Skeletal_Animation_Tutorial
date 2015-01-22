@@ -1,0 +1,106 @@
+﻿生成启动时间为 2015/1/22 20:43:43。
+     1>项目“G:\t\Skeletal_Animation_Tutorial\src_animation\Animation.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\include /I..\src_common /I..\src_kinect /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>g:\t\skeletal_animation_tutorial\src_common\core.h(42): warning C4005: “min”: 宏重定义
+                 c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(197) : 参见“min”的前一个定义
+     1>g:\t\skeletal_animation_tutorial\src_common\core.h(43): warning C4005: “max”: 宏重定义
+                 c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(193) : 参见“max”的前一个定义
+     1>g:\t\skeletal_animation_tutorial\src_common\ogl.h(19): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\ogl.h(21): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\ogl.h(26): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\ogl.h(31): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\ogl.h(32): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\ogl.h(35): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\ogl.h(36): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\ogl.h(37): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\ogl.h(38): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\ogl.h(46): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\ogl.h(86): warning C4101: “posZ”: 未引用的局部变量
+     1>g:\t\skeletal_animation_tutorial\src_common\ogl.h(86): warning C4101: “posY”: 未引用的局部变量
+     1>g:\t\skeletal_animation_tutorial\src_common\ogl.h(86): warning C4101: “posX”: 未引用的局部变量
+     1>g:\t\skeletal_animation_tutorial\src_common\ogl.h(216): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(41): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(43): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(50): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(55): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(66): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(70): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(78): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(81): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(88): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(91): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(98): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(101): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(108): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(111): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(118): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(121): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(128): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(131): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(138): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(141): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(148): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(151): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(157): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(162): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_common\glsl.h(63): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(100): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(111): warning C4018: “>”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(125): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(130): warning C4018: “>=”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(130): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(137): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(138): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(146): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(147): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(151): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(152): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(154): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(155): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(160): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(161): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(166): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(167): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(171): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(172): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(185): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(187): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(188): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(207): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(219): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(221): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(281): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(369): warning C4018: “>”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\meshanimation.h(377): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_animation\mesh.h(298): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_animation\mesh.h(305): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_animation\mesh.h(379): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_animation\mesh.h(399): warning C4129: “D”: 不可识别的字符转义序列
+     1>g:\t\skeletal_animation_tutorial\src_animation\mesh.h(125): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\mesh.h(132): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\mesh.h(192): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\mesh.h(218): warning C4018: “>=”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\mesh.h(238): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\mesh.h(261): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\mesh.h(273): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\mesh.h(379): warning C4018: “>=”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\mesh.h(399): warning C4018: “>=”: 有符号/无符号不匹配
+     1>g:\t\skeletal_animation_tutorial\src_animation\mesh.h(417): warning C4018: “<”: 有符号/无符号不匹配
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1186,5): warning MSB8012: TargetPath(G:\t\Skeletal_Animation_Tutorial\src_animation\Debug\Animation.exe) does not match the Linker's OutputFile property value (G:\t\Skeletal_Animation_Tutorial\bin32\Animation.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\bin32\Animation.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\lib32 strmiids.lib winmm.lib glut32.lib kernel32.lib user32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib Kinect10.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Debug\Animation.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /NXCOMPAT /IMPLIB:"Debug\Animation.lib" /MACHINE:X86 /SAFESEH Debug\glew.obj
+         Debug\Bmp.obj
+         Debug\core.obj
+         Debug\tinystr.obj
+         Debug\tinyxml.obj
+         Debug\tinyxmlerror.obj
+         Debug\tinyxmlparser.obj
+         Debug\Main.obj
+         Animation.vcxproj -> G:\t\Skeletal_Animation_Tutorial\src_animation\Debug\Animation.exe
+     1>已完成生成项目“G:\t\Skeletal_Animation_Tutorial\src_animation\Animation.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.29

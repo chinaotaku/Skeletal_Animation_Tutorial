@@ -1,0 +1,61 @@
+09:10:04: Creating resource group General
+09:10:04: Creating resource group Internal
+09:10:04: Creating resource group Autodetect
+09:10:04: Registering ResourceManager for type Mesh
+09:10:04: Registering ResourceManager for type Material
+09:10:04: Registering ResourceManager for type Skeleton
+09:10:04: XMLSkeletonSerializer writing  skeleton data to monkey.skeleton.xml...
+09:10:04: Populating DOM...
+09:10:04: Exporting bones..
+09:10:04: There are 44 bones.
+09:10:04:    Exporting Bone number 0
+09:10:04:    Exporting Bone number 1
+09:10:04:    Exporting Bone number 2
+09:10:04:    Exporting Bone number 3
+09:10:04:    Exporting Bone number 4
+09:10:04:    Exporting Bone number 5
+09:10:04:    Exporting Bone number 6
+09:10:04:    Exporting Bone number 7
+09:10:04:    Exporting Bone number 8
+09:10:04:    Exporting Bone number 9
+09:10:04:    Exporting Bone number 10
+09:10:04:    Exporting Bone number 11
+09:10:04:    Exporting Bone number 12
+09:10:04:    Exporting Bone number 13
+09:10:04:    Exporting Bone number 14
+09:10:04:    Exporting Bone number 15
+09:10:04:    Exporting Bone number 16
+09:10:04:    Exporting Bone number 17
+09:10:04:    Exporting Bone number 18
+09:10:04:    Exporting Bone number 19
+09:10:04:    Exporting Bone number 20
+09:10:04:    Exporting Bone number 21
+09:10:04:    Exporting Bone number 22
+09:10:04:    Exporting Bone number 23
+09:10:04:    Exporting Bone number 24
+09:10:04:    Exporting Bone number 25
+09:10:04:    Exporting Bone number 26
+09:10:04:    Exporting Bone number 27
+09:10:04:    Exporting Bone number 28
+09:10:04:    Exporting Bone number 29
+09:10:04:    Exporting Bone number 30
+09:10:04:    Exporting Bone number 31
+09:10:04:    Exporting Bone number 32
+09:10:04:    Exporting Bone number 33
+09:10:04:    Exporting Bone number 34
+09:10:04:    Exporting Bone number 35
+09:10:04:    Exporting Bone number 36
+09:10:04:    Exporting Bone number 37
+09:10:04:    Exporting Bone number 38
+09:10:04:    Exporting Bone number 39
+09:10:04:    Exporting Bone number 40
+09:10:04:    Exporting Bone number 41
+09:10:04:    Exporting Bone number 42
+09:10:04:    Exporting Bone number 43
+09:10:04: Bones exported.
+09:10:04: Exporting animations, count=0
+09:10:04: DOM populated, writing XML file..
+09:10:04: XMLSkeletonSerializer export successful.
+09:10:04: Unregistering ResourceManager for type Skeleton
+09:10:04: Unregistering ResourceManager for type Material
+09:10:04: Unregistering ResourceManager for type Mesh

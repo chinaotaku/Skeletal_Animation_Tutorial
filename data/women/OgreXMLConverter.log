@@ -1,0 +1,27 @@
+08:57:06: Creating resource group General
+08:57:06: Creating resource group Internal
+08:57:06: Creating resource group Autodetect
+08:57:06: Registering ResourceManager for type Mesh
+08:57:06: Registering ResourceManager for type Material
+08:57:06: Registering ResourceManager for type Skeleton
+08:57:06: XMLMeshSerializer writing mesh data to women.mesh.xml...
+08:57:06: Populating DOM...
+08:57:06: Writing submesh...
+08:57:06: Dedicated geometry bone assignments exported.
+08:57:06: Submesh exported.
+08:57:06: Writing submesh...
+08:57:06: Dedicated geometry bone assignments exported.
+08:57:06: Submesh exported.
+08:57:06: Writing submesh...
+08:57:07: Dedicated geometry bone assignments exported.
+08:57:07: Submesh exported.
+08:57:07: Writing submesh...
+08:57:08: Dedicated geometry bone assignments exported.
+08:57:08: Submesh exported.
+08:57:08: Exporting LOD information...
+08:57:08: LOD information exported.
+08:57:08: DOM populated, writing XML file..
+08:57:08: XMLMeshSerializer export successful.
+08:57:09: Unregistering ResourceManager for type Skeleton
+08:57:09: Unregistering ResourceManager for type Material
+08:57:09: Unregistering ResourceManager for type Mesh

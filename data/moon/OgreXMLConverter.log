@@ -1,0 +1,18 @@
+21:38:10: Creating resource group General
+21:38:10: Creating resource group Internal
+21:38:10: Creating resource group Autodetect
+21:38:10: Registering ResourceManager for type Mesh
+21:38:10: Registering ResourceManager for type Material
+21:38:10: Registering ResourceManager for type Skeleton
+21:38:10: XMLMeshSerializer writing mesh data to moon.mesh.xml...
+21:38:10: Populating DOM...
+21:38:10: Writing submesh...
+21:38:10: Dedicated geometry bone assignments exported.
+21:38:10: Submesh exported.
+21:38:10: Exporting LOD information...
+21:38:10: LOD information exported.
+21:38:10: DOM populated, writing XML file..
+21:38:10: XMLMeshSerializer export successful.
+21:38:10: Unregistering ResourceManager for type Skeleton
+21:38:10: Unregistering ResourceManager for type Material
+21:38:10: Unregistering ResourceManager for type Mesh

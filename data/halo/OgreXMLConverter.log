@@ -1,0 +1,39 @@
+21:12:06: Creating resource group General
+21:12:06: Creating resource group Internal
+21:12:06: Creating resource group Autodetect
+21:12:06: Registering ResourceManager for type Mesh
+21:12:06: Registering ResourceManager for type Material
+21:12:06: Registering ResourceManager for type Skeleton
+21:12:06: XMLSkeletonSerializer writing  skeleton data to halo.skeleton.xml...
+21:12:06: Populating DOM...
+21:12:06: Exporting bones..
+21:12:06: There are 18 bones.
+21:12:06:    Exporting Bone number 0
+21:12:06:    Exporting Bone number 1
+21:12:06:    Exporting Bone number 2
+21:12:06:    Exporting Bone number 3
+21:12:06:    Exporting Bone number 4
+21:12:06:    Exporting Bone number 5
+21:12:06:    Exporting Bone number 6
+21:12:06:    Exporting Bone number 7
+21:12:06:    Exporting Bone number 8
+21:12:06:    Exporting Bone number 9
+21:12:06:    Exporting Bone number 10
+21:12:06:    Exporting Bone number 11
+21:12:06:    Exporting Bone number 12
+21:12:06:    Exporting Bone number 13
+21:12:06:    Exporting Bone number 14
+21:12:06:    Exporting Bone number 15
+21:12:06:    Exporting Bone number 16
+21:12:06:    Exporting Bone number 17
+21:12:06: Bones exported.
+21:12:06: Exporting animations, count=2
+21:12:06: Exporting animation: idle
+21:12:06: Animation exported.
+21:12:06: Exporting animation: something
+21:12:06: Animation exported.
+21:12:06: DOM populated, writing XML file..
+21:12:06: XMLSkeletonSerializer export successful.
+21:12:06: Unregistering ResourceManager for type Skeleton
+21:12:06: Unregistering ResourceManager for type Material
+21:12:06: Unregistering ResourceManager for type Mesh

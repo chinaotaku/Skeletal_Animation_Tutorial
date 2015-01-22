@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene formatVersion="1.0" upAxis="y" unitsPerMeter="1000" unitType="millimeters" minOgreVersion="1.7" ogreMaxVersion="2.6.3" author="OgreMax Scene Exporter (www.ogremax.com)" application="3DS Max">
+    <environment>
+        <colourAmbient r="0.333333" g="0.333333" b="0.333333"/>
+        <colourBackground r="0" g="0" b="0"/>
+        <clipping near="0" far="100000"/>
+    </environment>
+    <nodes>
+        <node name="generic_item">
+            <position x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <rotation qx="0" qy="0" qz="0" qw="1"/>
+            <entity name="generic_item" castShadows="true" receiveShadows="true" meshFile="generic_item.mesh">
+                <subentities>
+                    <subentity index="0" materialName="assetstexturesaccec"/>
+                    <subentity index="1" materialName="assetstexturesfacec"/>
+                    <subentity index="2" materialName="NeptuneHighPolyout"/>
+                    <subentity index="3" materialName="NeptuneHighPolyout(1)"/>
+                    <subentity index="4" materialName="NeptuneHighPolyout(2)"/>
+                    <subentity index="5" materialName="assetstexturesbody"/>
+                    <subentity index="6" materialName="assetstextureshair"/>
+                </subentities>
+            </entity>
+        </node>
+        <node name="VR_光源001">
+            <position x="-0.180241" y="54.3729" z="45.4028"/>
+            <scale x="1" y="1" z="1"/>
+            <rotation qx="0.648779" qy="0" qz="0" qw="0.760977"/>
+            <light name="VR_光源001" visible="true" affectDiffuse="true" affectSpecular="true" ambientOnly="false" type="point" castShadows="true" power="0.275953">
+                <rotation qx="-0.707107" qy="-0" qz="-0" qw="-0.707107"/>
+                <colourDiffuse r="0.961669" g="1.01641" b="0.966805"/>
+                <colourSpecular r="1" g="1" b="1"/>
+                <lightAttenuation range="10000" constant="1" linear="0" quadric="0"/>
+            </light>
+        </node>
+        <node name="VR_物理像机001">
+            <position x="4.00193" y="23.0007" z="110.596"/>
+            <scale x="1" y="1" z="1"/>
+            <rotation qx="0.725053" qy="0.0120173" qz="-0.0126558" qw="0.688472"/>
+            <camera name="VR_物理像机001" fov="0.550051">
+                <rotation qx="-0.707107" qy="-0" qz="-0" qw="0.707107"/>
+                <clipping near="0.01" far="1000"/>
+            </camera>
+            <trackTarget nodeName="VR_物理像机001.Target">
+                <localDirection x="0" y="-1" z="0"/>
+            </trackTarget>
+        </node>
+        <node name="VR_物理像机001.Target">
+            <position x="0.263789" y="28.5485" z="3.54907"/>
+            <scale x="1" y="1" z="1"/>
+            <rotation qx="0.5" qy="-0.5" qz="0.5" qw="0.5"/>
+        </node>
+        <node name="VR_平面001">
+            <position x="-1.96515" y="1.75449e-007" z="4.01379"/>
+            <scale x="1" y="1" z="1"/>
+            <rotation qx="0" qy="0" qz="0" qw="1"/>
+        </node>
+    </nodes>
+</scene>

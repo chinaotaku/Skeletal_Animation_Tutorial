@@ -1,0 +1,80 @@
+material Material#25
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0.9 0.9 0.9 0 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture QuestViewer-1268d0.dds
+			}
+
+			texture_unit
+			{
+			}
+		}
+
+	}
+
+}
+
+
+material Material#26
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0.9 0.9 0.9 0 10
+			scene_blend one one_minus_src_alpha
+			cull_hardware none
+			cull_software none
+
+			texture_unit
+			{
+				texture QuestViewer-279f890.dds
+			}
+
+			texture_unit
+			{
+			}
+		}
+
+	}
+
+}
+
+
+material Material#27
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0.9 0.9 0.9 0 10
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture QuestViewer-b5890.dds
+			}
+
+			texture_unit
+			{
+			}
+		}
+
+	}
+
+}

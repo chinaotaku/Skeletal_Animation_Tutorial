@@ -1,0 +1,89 @@
+material 02-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0.9 0.9 0.9 0 10
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture 0dbbfed0.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 03-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0.9 0.9 0.9 0 10
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture 69757aa2.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 04-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0.9 0.9 0.9 0 10
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture c5576907.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material 05-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0.9 0.9 0.9 0 10
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture b7b513b8.dds
+			}
+		}
+
+	}
+
+}
